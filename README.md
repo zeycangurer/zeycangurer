@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift and React-Native.
 - ⚡ Fun fact: i love drawing and metaphysical contents.
 
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=zeycangurer&show_icons=true&theme=gradient) ![Github stats 2](https://github-readme-stats.vercel.app/api?username=zeycangurer&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=zeycangurer&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=zeycangurer&layout=compact&hide=html,css&theme=radical" )
 
 
 ### Contact with me
