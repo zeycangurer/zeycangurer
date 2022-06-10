@@ -12,7 +12,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeycan-gurer/) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeygrr@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-757575?style=for-the-badge&labelColor=757575&logo=Medium&logoColor=white&link=link)]([link](https://medium.com/@zeycangurer)) 
+[![Medium Badge](https://img.shields.io/badge/Medium-757575?style=for-the-badge&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@zeycangurer)
 
 
 ### Languages and Tools
