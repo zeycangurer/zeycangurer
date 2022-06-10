@@ -1,8 +1,6 @@
 ## Hi, I'm Zeycan Gurer! 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React.js.
 - 🌱 I’m currently learning Swift and React-Native.
 - ⚡ Fun fact: i love drawing and metaphysical contents.
