@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React.js.
 - 🌱 I’m currently learning Swift and React-Native.
-- ⚡ Fun fact: i love drawing and metaphysical contents.
+- ⚡ Fun fact: I love drawing and metaphysical contents.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zeycangurer&show_icons=true&theme=dracula)
 ![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=zeycangurer&layout=compact&langs_count=10&theme=dracula)
