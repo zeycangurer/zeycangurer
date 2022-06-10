@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i love drawing and metaphysical contents.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zeycangurer&show_icons=true&theme=radical)
-![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=zeycangurer&layout=compact&hide=html,css&theme=radical" )
+![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=zeycangurer&theme=radical" )
 
 
 ### Contact with me
