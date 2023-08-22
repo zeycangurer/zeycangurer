@@ -1,8 +1,8 @@
 ## Hi, I'm Zeycan Gurer! 👋
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=zeycangurer&show_icons=true&theme=dracula)
-![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=zeycangurer&layout=compact&langs_count=10&theme=dracula)
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zeycangurer&show_icons=true&theme=dracula)
+![Github stats 2](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeycangurer&layout=compact&langs_count=10&theme=dracula)
 
 ### Contact with me
 
